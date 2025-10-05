@@ -1,30 +1,12 @@
-# PixelVR website design
+PixelVR Official Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Redefining Reality Through VR, AR, and Artificial Intelligence
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/tkclefofficial-3040s-projects/v0-pixel-vr-website-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/Vbr0qbpg7aY)
+🚀 Overview
 
-## Overview
+PixelVR is a cutting-edge technology company specializing in Virtual Reality (VR), Augmented Reality (AR), and Artificial Intelligence (AI). Our mission is to blur the lines between the digital and physical worlds — creating immersive experiences that transform how people play, learn, and connect.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+From building next-generation VR worlds and AR-powered applications to integrating AI-driven interactivity and real-time simulations, PixelVR stands at the forefront of innovation, creativity, and human experience. We don’t just build technology — we craft new dimensions of reality.
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/tkclefofficial-3040s-projects/v0-pixel-vr-website-design](https://vercel.com/tkclefofficial-3040s-projects/v0-pixel-vr-website-design)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/Vbr0qbpg7aY](https://v0.app/chat/projects/Vbr0qbpg7aY)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+🌐 Live Website
+Visit the official site here: 🔗 PixelVR Website
