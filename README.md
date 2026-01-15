@@ -1,3 +1,5 @@
+NOTICE: This material is the property of xDEGREE° Company. Free for use for non-commercial purposes only.
+
 PixelVR Official Website
 
 Redefining Reality Through VR, AR, and Artificial Intelligence
